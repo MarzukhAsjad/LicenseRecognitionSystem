@@ -1,6 +1,6 @@
 # Development platform: VS Code (Windows 64 bit)
 # Python version: 3.10.9
-# dependencies (install dependencies from requirements.txt to successfully run this file)
+# dependencies (install dependencies from requirements.txt to successfully run this)
 
 import numpy as np
 import os
