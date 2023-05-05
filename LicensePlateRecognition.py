@@ -86,10 +86,8 @@ plt.show()
 
 # <><><><<><><><><> PART 4 <><><><><><><><><><>
 
-# on the image I'm using, the headlamps were categorized as a license plate
-# because their shapes were similar
-# for now I'll just use the plate_like_objects[2] since I know that's the
-# license plate. We'll fix this later
+# for now I'll just use the plate_like_objects[0] since I know that's the
+# license plate. I'll fix this later
 
 # The invert was done so as to convert the black pixel to white pixel and vice versa
 
